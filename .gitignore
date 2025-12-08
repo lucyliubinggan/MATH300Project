@@ -1,0 +1,7 @@
+.DS_Store
+data/.DS_Store
+*.pyc
+__pycache__/
+*.feather
+*.ft
+*.ipynb_checkpoints
