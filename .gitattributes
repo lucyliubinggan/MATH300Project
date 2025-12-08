@@ -1,0 +1,2 @@
+*.ft filter=lfs diff=lfs merge=lfs -text
+merged_factors.ft filter=lfs diff=lfs merge=lfs -text
